@@ -39,8 +39,6 @@ array.reduce
 array.includes
 array.indexOf
 array.join
-Dudas
-En el test para arrayReduce no he podido utilizar la función .concat para testear usos más complejos de la función, por lo que los he testeado a través de console.log.
 
 const array = [
 [0, 1],
