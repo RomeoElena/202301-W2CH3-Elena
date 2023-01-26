@@ -1,6 +1,5 @@
 # Week 2 - Challenge 3
 
-Functions for Array methods
 Challenge en parejas.​Crea un modulo con funciones que repliquen, sin utilizar ninguno de los métodos ya existentes en el prototipo, los siguientes métodos de array:
 
 length,
