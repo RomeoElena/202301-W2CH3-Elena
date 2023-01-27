@@ -15,7 +15,7 @@ describe("Give the length funtion", () => {
 describe("Give push function", () => {
   describe("When we add one more", () => {
     test("Then it must return the length array plus the new one", () => {
-      const array = ["Jhon", "Paul", "Ringo"];
+      const array = ["Jhon", "Paul", "Ringo", "George"];
       const show = push(array);
       const result = 4;
       expect(show).toEqual(result);
